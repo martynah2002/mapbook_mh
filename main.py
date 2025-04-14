@@ -18,7 +18,6 @@ def main():
         if choice == '2': add_user(users)
         if choice == '3': remove_user(users)
 
-
 if __name__ == '__main__':
     main()
 
